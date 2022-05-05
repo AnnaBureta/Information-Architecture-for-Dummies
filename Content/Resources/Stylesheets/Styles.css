@@ -255,7 +255,9 @@ h6
 div.home-layout
 {
 	padding: 2% 5%;
-	background-color: #c0c8d0;
+	background-color: #e3e6ea;
+	font-family: Arial;
+	color: #000000;
 }
 
 div.home-section
@@ -577,6 +579,11 @@ p.footer-sub
 	color: var(--White);
 	font-size: 14pt;
 	margin-top: 14px;
+}
+
+td
+{
+	color: #808080;
 }
 
 @media only screen and (max-width: 1279px)
