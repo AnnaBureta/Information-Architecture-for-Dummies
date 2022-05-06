@@ -257,7 +257,7 @@ div.home-layout
 	padding: 2% 5%;
 	background-color: #e3e6ea;
 	font-family: Arial;
-	color: #000000;
+	color: #38496a;
 }
 
 div.home-section
@@ -586,6 +586,11 @@ td
 	color: #808080;
 }
 
+table
+{
+	color: #a9a9a9;
+}
+
 @media only screen and (max-width: 1279px)
 {
 	/* Home page topic */
@@ -766,5 +771,13 @@ body#IA
 {
 	color: var(--Dark);
 	font-family: Arial, Avenir, Myriad;
+}
+
+h2.NewClass
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	page-break-before: always;
+	color: #696969;
 }
 
